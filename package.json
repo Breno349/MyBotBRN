@@ -2,6 +2,9 @@
   "name": "@whiskeysockets/baileys",
   "version": "6.5.0",
   "description": "WhatsApp API",
+  "scripts": {
+    "start":"node index.js"
+  },
   "keywords": [
     "whatsapp",
     "js-whatsapp",
